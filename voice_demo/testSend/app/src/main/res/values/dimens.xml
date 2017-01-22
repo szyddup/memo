@@ -1,0 +1,67 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <!--常用的字体大小(sp) -->
+    <dimen name="twelve_font">12sp</dimen>
+
+    <dimen name="fourteen_font">14sp</dimen>
+
+    <dimen name="sixteen_font">16sp</dimen>
+
+    <dimen name="eighteen_font">18sp</dimen>
+
+    <dimen name="twenty_font">20sp</dimen>
+
+    <dimen name="twenty_four_font">18sp</dimen>
+
+    <dimen name="thirty_four_font">34sp</dimen>
+
+    <dimen name="forty_five_font">45sp</dimen>
+
+    <dimen name="fifty_six_font">56sp</dimen>
+
+    <dimen name="one_hundred_twelve_font">112sp</dimen>
+
+    <!-- 常用的控件布局的高度(dp) -->
+    <dimen name="two_width_height">2dp</dimen>
+
+    <dimen name="five_width_height">5dp</dimen>
+
+    <dimen name="eight_width_height">8dp</dimen>
+
+    <dimen name="ten_width_height">10dp</dimen>
+
+    <dimen name="twelve_width_height">12dp</dimen>
+
+    <dimen name="fourteen_width_height">14dp</dimen>
+
+    <dimen name="fifteen_width_height">15dp</dimen>
+
+    <dimen name="sixteen_width_height">16dp</dimen>
+
+    <dimen name="eighteen_width_height">18dp</dimen>
+
+    <dimen name="twenty_width_height">20dp</dimen>
+
+    <dimen name="twenty_four_width_height">24dp</dimen>
+
+    <dimen name="thirty_width_height">30dp</dimen>
+
+    <dimen name="thirty_two_width_height">32dp</dimen>
+
+    <dimen name="forty_width_height">40dp</dimen>
+
+    <dimen name="forty_eight_width_height">48dp</dimen>
+
+    <dimen name="fifty_width_height">50dp</dimen>
+
+    <dimen name="fifty_six_width_height">56dp</dimen>
+
+    <dimen name="sixty_four_width_height">64dp</dimen>
+
+    <dimen name="seventy_two_width_height">72dp</dimen>
+
+    <dimen name="eighty_width_height">80dp</dimen>
+</resources>
